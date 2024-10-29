@@ -1,0 +1,496 @@
+ libp2p:connection:outbound:de1ok41730165999191 incoming stream opened on /fileswap/1.0.0 +296ms
+[1] {
+[1]   winId: 2,
+[1]   fileName: '123.rar',
+[1]   remotePath: '/Users/myname/Desktop/test',
+[1]   fileSize: 46445552,
+[1]   fileType: 'rar',
+[1]   cid: 'bafybeih7pphyjhjeq5bfr7fw2erxwzuty7zynao2dryce2mp75qpakakca'
+[1] }
+[1]   libp2p:kad-dht:content-routing findProviders bafybeih7pphyjhjeq5bfr7fw2erxwzuty7zynao2dryce2mp75qpakakca +0ms
+[1]   libp2p:kad-dht:providers get providers for bafybeih7pphyjhjeq5bfr7fw2erxwzuty7zynao2dryce2mp75qpakakca +0ms
+[1]   libp2p:kad-dht:query:QmfXxAtBhfFwyRhWMVYiUxG9Jy3A9gDPrwWcg2QqdmHKhy waiting for initial query-self query before continuing +0ms
+[1]   libp2p:kad-dht:query:QmfXxAtBhfFwyRhWMVYiUxG9Jy3A9gDPrwWcg2QqdmHKhy query:start +0ms
+[1]   libp2p:kad-dht:query:QmfXxAtBhfFwyRhWMVYiUxG9Jy3A9gDPrwWcg2QqdmHKhy:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmfXxAtBhfFwyRhWMVYiUxG9Jy3A9gDPrwWcg2QqdmHKhy query exited early +1ms
+[1]   libp2p:kad-dht:query:QmfXxAtBhfFwyRhWMVYiUxG9Jy3A9gDPrwWcg2QqdmHKhy query:done in 1ms +0ms
+[1]   libp2p:connection-manager dial 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +40s
+[1]   libp2p:connection-manager had an existing non-limited connection to 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +1ms
+[1]   libp2p:connection:outbound:de1ok41730165999191 incoming stream opened on /ipfs/bitswap/1.2.0 +65ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreienf4sxvd56k5l6kgjmwmncvgrbll2tcgc665h2ucrcgg3r7obsyq +61ms
+[1]   libp2p:kad-dht:providers get providers for bafkreienf4sxvd56k5l6kgjmwmncvgrbll2tcgc665h2ucrcgg3r7obsyq +61ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreihgsazfnsk2svy7f75eqolzxdaqx7plui55hudm3kk67hebfosgpm +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreicrhaxmsnmmmoz7roashi2lvdodeodq3edd66sdcpi4otoetvb3x4 +1ms
+[1]   libp2p:kad-dht:providers get providers for bafkreihgsazfnsk2svy7f75eqolzxdaqx7plui55hudm3kk67hebfosgpm +1ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreigacohunichmum4n77gbzipaw5lojn5glvipabxormdgnwnok6z7a +0ms
+[1]   libp2p:kad-dht:query:QmXqmtf41Nx7662Awgkyg8CHwQni9CuiZdTfTTHAA6yruh query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreiele2aztbrl5k5qi7vmbolmoqqoq6rlgzrsvilyjhrlmkmnimp6ae +1ms
+[1]   libp2p:kad-dht:query:QmXqmtf41Nx7662Awgkyg8CHwQni9CuiZdTfTTHAA6yruh:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmXqmtf41Nx7662Awgkyg8CHwQni9CuiZdTfTTHAA6yruh query exited early +1ms
+[1]   libp2p:kad-dht:query:QmXqmtf41Nx7662Awgkyg8CHwQni9CuiZdTfTTHAA6yruh query:done in 1ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreicrhaxmsnmmmoz7roashi2lvdodeodq3edd66sdcpi4otoetvb3x4 +1ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreicrcjlmmibjkqjbebyqva2jegudwpttgo6uok5hjegydqnbrc53oq +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreidfzebjkuvl2j27a5f4pwv46kc5nslmwwjufmzn3sa37wgzrogy4a +0ms
+[1]   libp2p:kad-dht:query:Qmdrg1S3AZjyF2Cuna3rp1YucR4YRXB817qKff33Wa6k5G query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreidga2dmgzenxjktbi5jmlts5lx5ogljwzjlzhj2rwfmurdq3rzxoa +1ms
+[1]   libp2p:kad-dht:query:Qmdrg1S3AZjyF2Cuna3rp1YucR4YRXB817qKff33Wa6k5G:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:Qmdrg1S3AZjyF2Cuna3rp1YucR4YRXB817qKff33Wa6k5G query exited early +0ms
+[1]   libp2p:kad-dht:query:Qmdrg1S3AZjyF2Cuna3rp1YucR4YRXB817qKff33Wa6k5G query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreigacohunichmum4n77gbzipaw5lojn5glvipabxormdgnwnok6z7a +1ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreiavnt24xrcpxpubzt6cpazid4mpa63vs5lpcygrgujy6vqjkptnna +1ms
+[1]   libp2p:kad-dht:query:QmTohRPkRYQw4R4ibCcBJTMM45N4UJWo1LTtf8ZPm9R3Q2 query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreigjy6fmyy6ytvwbqba2k4uvha55tzvhrxyeucoiqud74iasvlw6gu +1ms
+[1]   libp2p:kad-dht:query:QmTohRPkRYQw4R4ibCcBJTMM45N4UJWo1LTtf8ZPm9R3Q2:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmTohRPkRYQw4R4ibCcBJTMM45N4UJWo1LTtf8ZPm9R3Q2 query exited early +1ms
+[1]   libp2p:kad-dht:query:QmTohRPkRYQw4R4ibCcBJTMM45N4UJWo1LTtf8ZPm9R3Q2 query:done in 1ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreiele2aztbrl5k5qi7vmbolmoqqoq6rlgzrsvilyjhrlmkmnimp6ae +2ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreiedsfyud4izyz563eum4hi4wrpcm3m6rhx7gij2ayvjq2dykuyp2i +1ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreifz4e7m5fntows5fdzen22lz6qo6nc66lnpv2p4deqo44o2m7gbnm +0ms
+[1]   libp2p:kad-dht:query:QmbGSHYxuXEvjLYR6KQfisQ4xpCjQo6xm9qPjt3ryUCBNf query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreid5lbmptsqdgxgwtxeu2ssuisfjdfgmb5ksxbt53swindtrvgrryq +1ms
+[1]   libp2p:kad-dht:query:QmbGSHYxuXEvjLYR6KQfisQ4xpCjQo6xm9qPjt3ryUCBNf:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmbGSHYxuXEvjLYR6KQfisQ4xpCjQo6xm9qPjt3ryUCBNf query exited early +2ms
+[1]   libp2p:kad-dht:query:QmbGSHYxuXEvjLYR6KQfisQ4xpCjQo6xm9qPjt3ryUCBNf query:done in 2ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreicrcjlmmibjkqjbebyqva2jegudwpttgo6uok5hjegydqnbrc53oq +3ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreicxldgunnx3xedzdreavoubmwhzfemlkl3ld7ekcceh77caomilfy +1ms
+[1]   libp2p:kad-dht:query:QmXhqSAQkVr4Bdbwr47YPbYn5J7VTYhNpm5q3tpVB8v3Ax query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreiakbpw7v3hnuwrff75jwcfmsgckvoxdzv76ydwrepmtwmliit6lnm +1ms
+[1]   libp2p:kad-dht:query:QmXhqSAQkVr4Bdbwr47YPbYn5J7VTYhNpm5q3tpVB8v3Ax:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmXhqSAQkVr4Bdbwr47YPbYn5J7VTYhNpm5q3tpVB8v3Ax query exited early +1ms
+[1]   libp2p:kad-dht:query:QmXhqSAQkVr4Bdbwr47YPbYn5J7VTYhNpm5q3tpVB8v3Ax query:done in 1ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreidfzebjkuvl2j27a5f4pwv46kc5nslmwwjufmzn3sa37wgzrogy4a +2ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreicnjz2s44be5m3vjuhhfb5q4etc742n564up357w6wcg2ggtjgisa +1ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreid7re5bxysmtv46327de3ew4tufcbkcfvyqhft7yl575ig2qqmphu +0ms
+[1]   libp2p:kad-dht:query:QmTo7xBCuYwYPjatLLX5wMyyxFuksw8W6Ak29EpWhV2gUs query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreibw2ce6dk7y7gcd3557ggkhcnh3jf62n46qechuw7t4bgoo6pc5ou +1ms
+[1]   libp2p:kad-dht:query:QmTo7xBCuYwYPjatLLX5wMyyxFuksw8W6Ak29EpWhV2gUs:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmTo7xBCuYwYPjatLLX5wMyyxFuksw8W6Ak29EpWhV2gUs query exited early +0ms
+[1]   libp2p:kad-dht:query:QmTo7xBCuYwYPjatLLX5wMyyxFuksw8W6Ak29EpWhV2gUs query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreidga2dmgzenxjktbi5jmlts5lx5ogljwzjlzhj2rwfmurdq3rzxoa +1ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreiftvjwk2f7qcbwc4hpoibudgeqfmckjycuvguxx2dv643iykcq6cu +1ms
+[1]   libp2p:kad-dht:query:QmVByfK3ymQyPvMA97wBMKHxyiaqSUt7w9H39wCcrZgVqR query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreiea3bhrel2jr5kql54kataeybov6wnj4emnzyjmg7fqig3tamcjgu +0ms
+[1]   libp2p:kad-dht:query:QmVByfK3ymQyPvMA97wBMKHxyiaqSUt7w9H39wCcrZgVqR:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmVByfK3ymQyPvMA97wBMKHxyiaqSUt7w9H39wCcrZgVqR query exited early +0ms
+[1]   libp2p:kad-dht:query:QmVByfK3ymQyPvMA97wBMKHxyiaqSUt7w9H39wCcrZgVqR query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreiavnt24xrcpxpubzt6cpazid4mpa63vs5lpcygrgujy6vqjkptnna +1ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreicw2p7cs4dmmhtjhwt7we7hs4cmv3xvdg7uzlxv7vz5j6hhdj4bl4 +1ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreigsfru4wfhyf5eknwgkfpxbfygcxnwjcepeh227ouikklipl4ydni +1ms
+[1]   libp2p:kad-dht:query:QmVCv4pf5XBUFf9r48rv8E1EGdEM3ZE6ZNHaRoBRnEkDzo query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreidpzc6otylpzrnovvvuki6tuqaqptulpz2pohxzocrkgssv7nun3e +0ms
+[1]   libp2p:kad-dht:query:QmVCv4pf5XBUFf9r48rv8E1EGdEM3ZE6ZNHaRoBRnEkDzo:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmVCv4pf5XBUFf9r48rv8E1EGdEM3ZE6ZNHaRoBRnEkDzo query exited early +0ms
+[1]   libp2p:kad-dht:query:QmVCv4pf5XBUFf9r48rv8E1EGdEM3ZE6ZNHaRoBRnEkDzo query:done in 1ms +1ms
+[1]   libp2p:kad-dht:providers get providers for bafkreigjy6fmyy6ytvwbqba2k4uvha55tzvhrxyeucoiqud74iasvlw6gu +3ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreiawk4gjyaggdu2kvhxgqw5xwxpjeermzcfyoob4hsyb5mnbie3lvm +1ms
+[1]   libp2p:kad-dht:query:QmPnHdr4iXcYmWTqiwQNfd3M6VmqM31E9YmHkFKKc5cyZq query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreiexbkv75j2ijmiasmmeo4ctv4vejguo6jv6pw4nqoaegmbsmb24jy +1ms
+[1]   libp2p:kad-dht:query:QmPnHdr4iXcYmWTqiwQNfd3M6VmqM31E9YmHkFKKc5cyZq:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmPnHdr4iXcYmWTqiwQNfd3M6VmqM31E9YmHkFKKc5cyZq query exited early +1ms
+[1]   libp2p:kad-dht:query:QmPnHdr4iXcYmWTqiwQNfd3M6VmqM31E9YmHkFKKc5cyZq query:done in 1ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreiedsfyud4izyz563eum4hi4wrpcm3m6rhx7gij2ayvjq2dykuyp2i +1ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreiauustg2u5ih2eiesje4t2fcsezm3exoj7x45ovh23jubxb5pbhw4 +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreihfyvcndbpjsmr2ettbezhrlxju36v5v52muif7ir4i7vq5ye6p2u +0ms
+[1]   libp2p:kad-dht:query:QmbvK8fLucPVqsbniBmG31YxQ9hoff7Z7GeSYZBDMU1CVa query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreicfqe3sftfwdvr45m3qdrxr2btdmnvzc7ynt4dijdm5te55jmgemm +1ms
+[1]   libp2p:kad-dht:query:QmbvK8fLucPVqsbniBmG31YxQ9hoff7Z7GeSYZBDMU1CVa:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmbvK8fLucPVqsbniBmG31YxQ9hoff7Z7GeSYZBDMU1CVa query exited early +0ms
+[1]   libp2p:kad-dht:query:QmbvK8fLucPVqsbniBmG31YxQ9hoff7Z7GeSYZBDMU1CVa query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreifz4e7m5fntows5fdzen22lz6qo6nc66lnpv2p4deqo44o2m7gbnm +1ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreiefkl3zher3quygj65ciyadcholqxhwvoauqtczn7ximshpfeoytm +1ms
+[1]   libp2p:kad-dht:query:QmXCEkLMwkbuXXnozveJ4LfLTYFiUzYZqiksQ4v6JznS6u query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreickubve4n3725eb6gp247wwwhlvyb4ue4vvgpkjmvsokjl3ecvk5a +1ms
+[1]   libp2p:kad-dht:query:QmXCEkLMwkbuXXnozveJ4LfLTYFiUzYZqiksQ4v6JznS6u:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmXCEkLMwkbuXXnozveJ4LfLTYFiUzYZqiksQ4v6JznS6u query exited early +0ms
+[1]   libp2p:kad-dht:query:QmXCEkLMwkbuXXnozveJ4LfLTYFiUzYZqiksQ4v6JznS6u query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreid5lbmptsqdgxgwtxeu2ssuisfjdfgmb5ksxbt53swindtrvgrryq +2ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreiaowjmjfkr4dltdoxxqkxdwqv6zjcfzq57xoylmtrq427nx46eu3m +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreibbfzrhno3igyvporakylsbcrwx7h2uj4r473y73faq23lodxbpqu +1ms
+[1]   libp2p:kad-dht:query:QmarFLmszq3vTZNzdWh6Gt5j5FUwW9c4NB9GRyLQi5YBza query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreibiqxxfcxktbncuudcl3bgnyo5srwwfaf5kcirud66s4yxdczkzkq +0ms
+[1]   libp2p:kad-dht:query:QmarFLmszq3vTZNzdWh6Gt5j5FUwW9c4NB9GRyLQi5YBza:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmarFLmszq3vTZNzdWh6Gt5j5FUwW9c4NB9GRyLQi5YBza query exited early +0ms
+[1]   libp2p:kad-dht:query:QmarFLmszq3vTZNzdWh6Gt5j5FUwW9c4NB9GRyLQi5YBza query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreicxldgunnx3xedzdreavoubmwhzfemlkl3ld7ekcceh77caomilfy +1ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreids2x33gwgbtnhya4glta4bektq3lhebd2bgqka2qbncmx7taeigm +1ms
+[1]   libp2p:kad-dht:query:QmWmwokHuYZQvRKwTr3mDfSacVRDteyGpSqmGYLXBCstbd query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreihcgbhu7fudyfp2fuixp7llkeleuvqxf2a5qpp2qhiqcnmakjt7cq +0ms
+[1]   libp2p:kad-dht:query:QmWmwokHuYZQvRKwTr3mDfSacVRDteyGpSqmGYLXBCstbd:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmWmwokHuYZQvRKwTr3mDfSacVRDteyGpSqmGYLXBCstbd query exited early +1ms
+[1]   libp2p:kad-dht:query:QmWmwokHuYZQvRKwTr3mDfSacVRDteyGpSqmGYLXBCstbd query:done in 1ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreiakbpw7v3hnuwrff75jwcfmsgckvoxdzv76ydwrepmtwmliit6lnm +2ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreigjau7hyljcs2mu47wb6t5q2cox7iawlo2hg7oasj6dw7hfnhemii +1ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreihigkcneljst7hjzakadkhczurij7xh22oj3dcrcz3wjrupfafo2y +1ms
+[1]   libp2p:kad-dht:query:QmUDciV5F865od6w79kDAt7GkionGUXLcYBY61GBZK5UWH query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreihqqhwdrli2c4x5slyn35wz7ktxoi73rqja55gelreceuv6w4sxuu +0ms
+[1]   libp2p:kad-dht:query:QmUDciV5F865od6w79kDAt7GkionGUXLcYBY61GBZK5UWH:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmUDciV5F865od6w79kDAt7GkionGUXLcYBY61GBZK5UWH query exited early +0ms
+[1]   libp2p:kad-dht:query:QmUDciV5F865od6w79kDAt7GkionGUXLcYBY61GBZK5UWH query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreicnjz2s44be5m3vjuhhfb5q4etc742n564up357w6wcg2ggtjgisa +1ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreidpqetlunw4gdflfgra6qfrgt7zsm6gryqylmlktok6l7hspdugeq +0ms
+[1]   libp2p:kad-dht:query:QmP1sLWLQJGu1xeHUQZh8pQMzcDSzjpgYeKqzQKcmttJtJ query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreiftq7fkolwl5lvkhum7b66hgrdc7utngu2gz3g6mvjvlx7yhfay2q +1ms
+[1]   libp2p:kad-dht:query:QmP1sLWLQJGu1xeHUQZh8pQMzcDSzjpgYeKqzQKcmttJtJ:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmP1sLWLQJGu1xeHUQZh8pQMzcDSzjpgYeKqzQKcmttJtJ query exited early +0ms
+[1]   libp2p:kad-dht:query:QmP1sLWLQJGu1xeHUQZh8pQMzcDSzjpgYeKqzQKcmttJtJ query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreid7re5bxysmtv46327de3ew4tufcbkcfvyqhft7yl575ig2qqmphu +1ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreickkbpeiycyizwi7r4syvx32iavcuezu24yo5cvr3qutqdzl5yizu +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreicr7dlph2trciixfwmysyzztrpejk7pahfm4wanpcuoqceuzn2q6y +1ms
+[1]   libp2p:kad-dht:query:QmTYRVQvpazKiqqi3J2NvDg1uXj6aXrPDQNMa1MGJmv8Ab query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreifxzan3xipuzig6nz4szzgdbmrrsvi4ynob6qubepgxinfa236fqu +1ms
+[1]   libp2p:kad-dht:query:QmTYRVQvpazKiqqi3J2NvDg1uXj6aXrPDQNMa1MGJmv8Ab:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmTYRVQvpazKiqqi3J2NvDg1uXj6aXrPDQNMa1MGJmv8Ab query exited early +1ms
+[1]   libp2p:kad-dht:query:QmTYRVQvpazKiqqi3J2NvDg1uXj6aXrPDQNMa1MGJmv8Ab query:done in 1ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreibw2ce6dk7y7gcd3557ggkhcnh3jf62n46qechuw7t4bgoo6pc5ou +2ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreiexixdxmgs6icidhdqtj3dsykmar6e4youcp4f7bfxfjof2c4ghqm +0ms
+[1]   libp2p:kad-dht:query:QmWvVrLMUyjmRxeucisAZLtuearKvgHx6x7hKvKFSY6YTe query:start +0ms
+[1]   libp2p:kad-dht:content-routing findProviders bafkreictbkxooagqy5fszdsfkii2zmpjf5uuazvtat75jitj6ms5wx3hym +0ms
+[1]   libp2p:kad-dht:query:QmWvVrLMUyjmRxeucisAZLtuearKvgHx6x7hKvKFSY6YTe:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmWvVrLMUyjmRxeucisAZLtuearKvgHx6x7hKvKFSY6YTe query exited early +1ms
+[1]   libp2p:kad-dht:query:QmWvVrLMUyjmRxeucisAZLtuearKvgHx6x7hKvKFSY6YTe query:done in 1ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreiftvjwk2f7qcbwc4hpoibudgeqfmckjycuvguxx2dv643iykcq6cu +1ms
+[1]   libp2p:kad-dht:query:QmS2dA78bx3ohQcxSx5zhW9urguayxhfdRSkrxB9x4PC52 query:start +0ms
+[1]   libp2p:kad-dht:query:QmS2dA78bx3ohQcxSx5zhW9urguayxhfdRSkrxB9x4PC52:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmS2dA78bx3ohQcxSx5zhW9urguayxhfdRSkrxB9x4PC52 query exited early +0ms
+[1]   libp2p:kad-dht:query:QmS2dA78bx3ohQcxSx5zhW9urguayxhfdRSkrxB9x4PC52 query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreiea3bhrel2jr5kql54kataeybov6wnj4emnzyjmg7fqig3tamcjgu +0ms
+[1]   libp2p:kad-dht:query:QmaRzQqMgNtq8Pwyq8vPR8LuY6mwsD9mQrx642XMSy1voN query:start +0ms
+[1]   libp2p:kad-dht:query:QmaRzQqMgNtq8Pwyq8vPR8LuY6mwsD9mQrx642XMSy1voN:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmaRzQqMgNtq8Pwyq8vPR8LuY6mwsD9mQrx642XMSy1voN query exited early +0ms
+[1]   libp2p:kad-dht:query:QmaRzQqMgNtq8Pwyq8vPR8LuY6mwsD9mQrx642XMSy1voN query:done in 1ms +1ms
+[1]   libp2p:kad-dht:providers get providers for bafkreicw2p7cs4dmmhtjhwt7we7hs4cmv3xvdg7uzlxv7vz5j6hhdj4bl4 +2ms
+[1]   libp2p:kad-dht:query:QmX1cCXR8ccVmjHNuhT7dcHRtLgrUWNhzW8uV7BxGQijiC query:start +0ms
+[1]   libp2p:kad-dht:query:QmX1cCXR8ccVmjHNuhT7dcHRtLgrUWNhzW8uV7BxGQijiC:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmX1cCXR8ccVmjHNuhT7dcHRtLgrUWNhzW8uV7BxGQijiC query exited early +0ms
+[1]   libp2p:kad-dht:query:QmX1cCXR8ccVmjHNuhT7dcHRtLgrUWNhzW8uV7BxGQijiC query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreigsfru4wfhyf5eknwgkfpxbfygcxnwjcepeh227ouikklipl4ydni +0ms
+[1]   libp2p:kad-dht:query:QmUBbFymGyUdZVR4hedfqk6Km9Qqx9wxVXrMn1c9uM6DtS query:start +0ms
+[1]   libp2p:kad-dht:query:QmUBbFymGyUdZVR4hedfqk6Km9Qqx9wxVXrMn1c9uM6DtS:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmUBbFymGyUdZVR4hedfqk6Km9Qqx9wxVXrMn1c9uM6DtS query exited early +0ms
+[1]   libp2p:kad-dht:query:QmUBbFymGyUdZVR4hedfqk6Km9Qqx9wxVXrMn1c9uM6DtS query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreidpzc6otylpzrnovvvuki6tuqaqptulpz2pohxzocrkgssv7nun3e +0ms
+[1]   libp2p:kad-dht:query:QmcV5c4jgxqUudK9irF6upExAWnaQEiWxZje8vor759Qjj query:start +0ms
+[1]   libp2p:kad-dht:query:QmcV5c4jgxqUudK9irF6upExAWnaQEiWxZje8vor759Qjj:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmcV5c4jgxqUudK9irF6upExAWnaQEiWxZje8vor759Qjj query exited early +0ms
+[1]   libp2p:kad-dht:query:QmcV5c4jgxqUudK9irF6upExAWnaQEiWxZje8vor759Qjj query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreiawk4gjyaggdu2kvhxgqw5xwxpjeermzcfyoob4hsyb5mnbie3lvm +0ms
+[1]   libp2p:kad-dht:query:QmVs1VpL3BoZEpRqCJBP6i65Kh5BJTfuk2SzXJCWpU9Yo2 query:start +0ms
+[1]   libp2p:kad-dht:query:QmVs1VpL3BoZEpRqCJBP6i65Kh5BJTfuk2SzXJCWpU9Yo2:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmVs1VpL3BoZEpRqCJBP6i65Kh5BJTfuk2SzXJCWpU9Yo2 query exited early +1ms
+[1]   libp2p:kad-dht:query:QmVs1VpL3BoZEpRqCJBP6i65Kh5BJTfuk2SzXJCWpU9Yo2 query:done in 1ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreiexbkv75j2ijmiasmmeo4ctv4vejguo6jv6pw4nqoaegmbsmb24jy +1ms
+[1]   libp2p:kad-dht:query:QmPqrfZe23dRh5TPt589K3a5A9qGDjorZAM821hDmdRhaJ query:start +0ms
+[1]   libp2p:kad-dht:query:QmPqrfZe23dRh5TPt589K3a5A9qGDjorZAM821hDmdRhaJ:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmPqrfZe23dRh5TPt589K3a5A9qGDjorZAM821hDmdRhaJ query exited early +0ms
+[1]   libp2p:kad-dht:query:QmPqrfZe23dRh5TPt589K3a5A9qGDjorZAM821hDmdRhaJ query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreiauustg2u5ih2eiesje4t2fcsezm3exoj7x45ovh23jubxb5pbhw4 +0ms
+[1]   libp2p:kad-dht:query:QmYWFi9As7MvmfE9FEzPRNUjWQ68h16g36tWgmwv6TqSwF query:start +0ms
+[1]   libp2p:kad-dht:query:QmYWFi9As7MvmfE9FEzPRNUjWQ68h16g36tWgmwv6TqSwF:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmYWFi9As7MvmfE9FEzPRNUjWQ68h16g36tWgmwv6TqSwF query exited early +0ms
+[1]   libp2p:kad-dht:query:QmYWFi9As7MvmfE9FEzPRNUjWQ68h16g36tWgmwv6TqSwF query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreihfyvcndbpjsmr2ettbezhrlxju36v5v52muif7ir4i7vq5ye6p2u +0ms
+[1]   libp2p:kad-dht:query:QmPjEUqwLjQVcHZJ4YeWysh9vEAvxMEuXiGRD3b411bnQW query:start +0ms
+[1]   libp2p:kad-dht:query:QmPjEUqwLjQVcHZJ4YeWysh9vEAvxMEuXiGRD3b411bnQW:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmPjEUqwLjQVcHZJ4YeWysh9vEAvxMEuXiGRD3b411bnQW query exited early +0ms
+[1]   libp2p:kad-dht:query:QmPjEUqwLjQVcHZJ4YeWysh9vEAvxMEuXiGRD3b411bnQW query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreicfqe3sftfwdvr45m3qdrxr2btdmnvzc7ynt4dijdm5te55jmgemm +0ms
+[1]   libp2p:kad-dht:query:QmdoaY9epKNNh7ZvnQMDsP7AYARALmdPAwNAhbgN3yGw2k query:start +0ms
+[1]   libp2p:kad-dht:query:QmdoaY9epKNNh7ZvnQMDsP7AYARALmdPAwNAhbgN3yGw2k:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmdoaY9epKNNh7ZvnQMDsP7AYARALmdPAwNAhbgN3yGw2k query exited early +0ms
+[1]   libp2p:kad-dht:query:QmdoaY9epKNNh7ZvnQMDsP7AYARALmdPAwNAhbgN3yGw2k query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreiefkl3zher3quygj65ciyadcholqxhwvoauqtczn7ximshpfeoytm +0ms
+[1]   libp2p:kad-dht:query:QmT1y7sy7EQ1ozXHK31cUNR6f9gmv4xZNXSTsM9THBJ83k query:start +0ms
+[1]   libp2p:kad-dht:query:QmT1y7sy7EQ1ozXHK31cUNR6f9gmv4xZNXSTsM9THBJ83k:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmT1y7sy7EQ1ozXHK31cUNR6f9gmv4xZNXSTsM9THBJ83k query exited early +0ms
+[1]   libp2p:kad-dht:query:QmT1y7sy7EQ1ozXHK31cUNR6f9gmv4xZNXSTsM9THBJ83k query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreickubve4n3725eb6gp247wwwhlvyb4ue4vvgpkjmvsokjl3ecvk5a +0ms
+[1]   libp2p:kad-dht:query:QmXK6Jvd3DTV4aY8eMhLcW5gS3kyrb5efrLddZaHGJRLnE query:start +0ms
+[1]   libp2p:kad-dht:query:QmXK6Jvd3DTV4aY8eMhLcW5gS3kyrb5efrLddZaHGJRLnE:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmXK6Jvd3DTV4aY8eMhLcW5gS3kyrb5efrLddZaHGJRLnE query exited early +0ms
+[1]   libp2p:kad-dht:query:QmXK6Jvd3DTV4aY8eMhLcW5gS3kyrb5efrLddZaHGJRLnE query:done in 1ms +1ms
+[1]   libp2p:kad-dht:providers get providers for bafkreiaowjmjfkr4dltdoxxqkxdwqv6zjcfzq57xoylmtrq427nx46eu3m +1ms
+[1]   libp2p:kad-dht:query:QmTMxkXR9hw2D4AcUfHVtf1LwqAbfwnxpTZq2tQCdYBJFR query:start +0ms
+[1]   libp2p:kad-dht:query:QmTMxkXR9hw2D4AcUfHVtf1LwqAbfwnxpTZq2tQCdYBJFR:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmTMxkXR9hw2D4AcUfHVtf1LwqAbfwnxpTZq2tQCdYBJFR query exited early +0ms
+[1]   libp2p:kad-dht:query:QmTMxkXR9hw2D4AcUfHVtf1LwqAbfwnxpTZq2tQCdYBJFR query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreibbfzrhno3igyvporakylsbcrwx7h2uj4r473y73faq23lodxbpqu +0ms
+[1]   libp2p:kad-dht:query:QmPL29W7cDqZqz1F764quSHFTuox1DUnPpTHfT2xEhsHqC query:start +0ms
+[1]   libp2p:kad-dht:query:QmPL29W7cDqZqz1F764quSHFTuox1DUnPpTHfT2xEhsHqC:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmPL29W7cDqZqz1F764quSHFTuox1DUnPpTHfT2xEhsHqC query exited early +0ms
+[1]   libp2p:kad-dht:query:QmPL29W7cDqZqz1F764quSHFTuox1DUnPpTHfT2xEhsHqC query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreibiqxxfcxktbncuudcl3bgnyo5srwwfaf5kcirud66s4yxdczkzkq +0ms
+[1]   libp2p:kad-dht:query:QmQaBBmAs5u6eKajJ3HxmbX3zhRLfMKAEwneAVVYFEeDbA query:start +0ms
+[1]   libp2p:kad-dht:query:QmQaBBmAs5u6eKajJ3HxmbX3zhRLfMKAEwneAVVYFEeDbA:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmQaBBmAs5u6eKajJ3HxmbX3zhRLfMKAEwneAVVYFEeDbA query exited early +0ms
+[1]   libp2p:kad-dht:query:QmQaBBmAs5u6eKajJ3HxmbX3zhRLfMKAEwneAVVYFEeDbA query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreids2x33gwgbtnhya4glta4bektq3lhebd2bgqka2qbncmx7taeigm +0ms
+[1]   libp2p:kad-dht:query:QmR4qU22ssvWrEyYMdwYZ3nDF9VumJif472haRtq9Vowdd query:start +0ms
+[1]   libp2p:kad-dht:query:QmR4qU22ssvWrEyYMdwYZ3nDF9VumJif472haRtq9Vowdd:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmR4qU22ssvWrEyYMdwYZ3nDF9VumJif472haRtq9Vowdd query exited early +0ms
+[1]   libp2p:kad-dht:query:QmR4qU22ssvWrEyYMdwYZ3nDF9VumJif472haRtq9Vowdd query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreihcgbhu7fudyfp2fuixp7llkeleuvqxf2a5qpp2qhiqcnmakjt7cq +0ms
+[1]   libp2p:kad-dht:query:QmW4vRNpQZA12gHQGusj7VAUBKGKqeJySKELdT9SeAKhbY query:start +0ms
+[1]   libp2p:kad-dht:query:QmW4vRNpQZA12gHQGusj7VAUBKGKqeJySKELdT9SeAKhbY:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmW4vRNpQZA12gHQGusj7VAUBKGKqeJySKELdT9SeAKhbY query exited early +0ms
+[1]   libp2p:kad-dht:query:QmW4vRNpQZA12gHQGusj7VAUBKGKqeJySKELdT9SeAKhbY query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreigjau7hyljcs2mu47wb6t5q2cox7iawlo2hg7oasj6dw7hfnhemii +0ms
+[1]   libp2p:kad-dht:query:QmdZbaHSssMuKfYb58gUDgivM9WCvPkvRfL2r1C6kzA139 query:start +0ms
+[1]   libp2p:kad-dht:query:QmdZbaHSssMuKfYb58gUDgivM9WCvPkvRfL2r1C6kzA139:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmdZbaHSssMuKfYb58gUDgivM9WCvPkvRfL2r1C6kzA139 query exited early +0ms
+[1]   libp2p:kad-dht:query:QmdZbaHSssMuKfYb58gUDgivM9WCvPkvRfL2r1C6kzA139 query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreihigkcneljst7hjzakadkhczurij7xh22oj3dcrcz3wjrupfafo2y +0ms
+[1]   libp2p:kad-dht:query:QmbsMJ3ZQXE58qXXfT3aWgFG7zKgjqWka1mBFS739eKUkR query:start +0ms
+[1]   libp2p:kad-dht:query:QmbsMJ3ZQXE58qXXfT3aWgFG7zKgjqWka1mBFS739eKUkR:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmbsMJ3ZQXE58qXXfT3aWgFG7zKgjqWka1mBFS739eKUkR query exited early +0ms
+[1]   libp2p:kad-dht:query:QmbsMJ3ZQXE58qXXfT3aWgFG7zKgjqWka1mBFS739eKUkR query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreihqqhwdrli2c4x5slyn35wz7ktxoi73rqja55gelreceuv6w4sxuu +0ms
+[1]   libp2p:kad-dht:query:Qmdy3yUa4kyASVX85sbYEinipKz8fbyFwf9dFBrawAE3Lh query:start +0ms
+[1]   libp2p:kad-dht:query:Qmdy3yUa4kyASVX85sbYEinipKz8fbyFwf9dFBrawAE3Lh:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:Qmdy3yUa4kyASVX85sbYEinipKz8fbyFwf9dFBrawAE3Lh query exited early +0ms
+[1]   libp2p:kad-dht:query:Qmdy3yUa4kyASVX85sbYEinipKz8fbyFwf9dFBrawAE3Lh query:done in 1ms +1ms
+[1]   libp2p:kad-dht:providers get providers for bafkreidpqetlunw4gdflfgra6qfrgt7zsm6gryqylmlktok6l7hspdugeq +1ms
+[1]   libp2p:kad-dht:query:QmeXVTiAiNb1x4BDkFtMdn5mQD96bqyGQXytgXhyNbi1EC query:start +0ms
+[1]   libp2p:kad-dht:query:QmeXVTiAiNb1x4BDkFtMdn5mQD96bqyGQXytgXhyNbi1EC:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmeXVTiAiNb1x4BDkFtMdn5mQD96bqyGQXytgXhyNbi1EC query exited early +0ms
+[1]   libp2p:kad-dht:query:QmeXVTiAiNb1x4BDkFtMdn5mQD96bqyGQXytgXhyNbi1EC query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreiftq7fkolwl5lvkhum7b66hgrdc7utngu2gz3g6mvjvlx7yhfay2q +0ms
+[1]   libp2p:kad-dht:query:QmVqvBk5L4cnk3JjdYLrdT5ggrPWRmEKHP3Pr83WS6Wo9d query:start +0ms
+[1]   libp2p:kad-dht:query:QmVqvBk5L4cnk3JjdYLrdT5ggrPWRmEKHP3Pr83WS6Wo9d:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmVqvBk5L4cnk3JjdYLrdT5ggrPWRmEKHP3Pr83WS6Wo9d query exited early +0ms
+[1]   libp2p:kad-dht:query:QmVqvBk5L4cnk3JjdYLrdT5ggrPWRmEKHP3Pr83WS6Wo9d query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreickkbpeiycyizwi7r4syvx32iavcuezu24yo5cvr3qutqdzl5yizu +0ms
+[1]   libp2p:kad-dht:query:QmaRTnKfoifgHu7Bc9nTQEZFg3W3H2Xe7ZC2cnva9QhQhR query:start +0ms
+[1]   libp2p:kad-dht:query:QmaRTnKfoifgHu7Bc9nTQEZFg3W3H2Xe7ZC2cnva9QhQhR:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmaRTnKfoifgHu7Bc9nTQEZFg3W3H2Xe7ZC2cnva9QhQhR query exited early +0ms
+[1]   libp2p:kad-dht:query:QmaRTnKfoifgHu7Bc9nTQEZFg3W3H2Xe7ZC2cnva9QhQhR query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreicr7dlph2trciixfwmysyzztrpejk7pahfm4wanpcuoqceuzn2q6y +0ms
+[1]   libp2p:kad-dht:query:QmTLjxURELdwtbLdRa1r4FjCkryeNUCEoNTwcD2EKvEpHz query:start +0ms
+[1]   libp2p:kad-dht:query:QmTLjxURELdwtbLdRa1r4FjCkryeNUCEoNTwcD2EKvEpHz:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmTLjxURELdwtbLdRa1r4FjCkryeNUCEoNTwcD2EKvEpHz query exited early +0ms
+[1]   libp2p:kad-dht:query:QmTLjxURELdwtbLdRa1r4FjCkryeNUCEoNTwcD2EKvEpHz query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreifxzan3xipuzig6nz4szzgdbmrrsvi4ynob6qubepgxinfa236fqu +0ms
+[1]   libp2p:kad-dht:query:QmTrdopk8YFSx4jN6waJEqNYAx5hjWTxAWG4RvxqZ91Pyo query:start +0ms
+[1]   libp2p:kad-dht:query:QmTrdopk8YFSx4jN6waJEqNYAx5hjWTxAWG4RvxqZ91Pyo:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmTrdopk8YFSx4jN6waJEqNYAx5hjWTxAWG4RvxqZ91Pyo query exited early +0ms
+[1]   libp2p:kad-dht:query:QmTrdopk8YFSx4jN6waJEqNYAx5hjWTxAWG4RvxqZ91Pyo query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreiexixdxmgs6icidhdqtj3dsykmar6e4youcp4f7bfxfjof2c4ghqm +0ms
+[1]   libp2p:kad-dht:query:Qmai4J4ogH3rBsfRRcPMKG8qd9G3bk4agdpBPzXwy7qXgQ query:start +0ms
+[1]   libp2p:kad-dht:query:Qmai4J4ogH3rBsfRRcPMKG8qd9G3bk4agdpBPzXwy7qXgQ:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:Qmai4J4ogH3rBsfRRcPMKG8qd9G3bk4agdpBPzXwy7qXgQ query exited early +0ms
+[1]   libp2p:kad-dht:query:Qmai4J4ogH3rBsfRRcPMKG8qd9G3bk4agdpBPzXwy7qXgQ query:done in 0ms +0ms
+[1]   libp2p:kad-dht:providers get providers for bafkreictbkxooagqy5fszdsfkii2zmpjf5uuazvtat75jitj6ms5wx3hym +0ms
+[1]   libp2p:kad-dht:query:QmYX9z5ZLBZorYDQwTdEsq8Tib3o7NHG2HPrFNhRRDwXTx query:start +0ms
+[1]   libp2p:kad-dht:query:QmYX9z5ZLBZorYDQwTdEsq8Tib3o7NHG2HPrFNhRRDwXTx:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmYX9z5ZLBZorYDQwTdEsq8Tib3o7NHG2HPrFNhRRDwXTx query exited early +0ms
+[1]   libp2p:kad-dht:query:QmYX9z5ZLBZorYDQwTdEsq8Tib3o7NHG2HPrFNhRRDwXTx query:done in 0ms +0ms
+[1]   libp2p:kad-dht:query:QmTvozmHR9ujcXAXTs9WXwXWgdSJNb36CcXvncUBahRNgS query:start +0ms
+[1]   libp2p:kad-dht:query:QmTvozmHR9ujcXAXTs9WXwXWgdSJNb36CcXvncUBahRNgS:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmTvozmHR9ujcXAXTs9WXwXWgdSJNb36CcXvncUBahRNgS query exited early +0ms
+[1]   libp2p:kad-dht:query:QmTvozmHR9ujcXAXTs9WXwXWgdSJNb36CcXvncUBahRNgS query:done in 0ms +0ms
+[1] (node:10810) MaxListenersExceededWarning: Possible EventTarget memory leak detected. 11 abort listeners added to [AbortSignal]. MaxListeners is 10. Use events.setMaxListeners() to increase limit
+[1]   libp2p:connection-manager dial 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +86ms
+[1]   libp2p:connection-manager had an existing non-limited connection to 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +0ms
+[1]   libp2p:connection:outbound:de1ok41730165999191 incoming stream opened on /ipfs/bitswap/1.2.0 +78ms
+[1]   libp2p:connection:outbound:de1ok41730165999191:error could not create new outbound stream on connection to /ip4/192.168.200.183/tcp/53983/ws/p2p/12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm for protocols [ '/ipfs/ping/1.0.0' ] - AbortError: Read aborted
+[1]   libp2p:connection:outbound:de1ok41730165999191:error     at EventTarget.listener (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:199543:28)
+[1]   libp2p:connection:outbound:de1ok41730165999191:error     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]   libp2p:connection:outbound:de1ok41730165999191:error     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]   libp2p:connection:outbound:de1ok41730165999191:error     at abortSignal (node:internal/abort_controller:370:10)
+[1]   libp2p:connection:outbound:de1ok41730165999191:error     at AbortController.abort (node:internal/abort_controller:392:5)
+[1]   libp2p:connection:outbound:de1ok41730165999191:error     at EventTarget.onAbort (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:170520:20)
+[1]   libp2p:connection:outbound:de1ok41730165999191:error     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]   libp2p:connection:outbound:de1ok41730165999191:error     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]   libp2p:connection:outbound:de1ok41730165999191:error     at abortSignal (node:internal/abort_controller:370:10)
+[1]   libp2p:connection:outbound:de1ok41730165999191:error     at Timeout._onTimeout (node:internal/abort_controller:127:7) +43s
+[1]   libp2p:yamux:outbound:17 abort with error AbortError: Read aborted
+[1]     at EventTarget.listener (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:199543:28)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at AbortController.abort (node:internal/abort_controller:392:5)
+[1]     at EventTarget.onAbort (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:170520:20)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at Timeout._onTimeout (node:internal/abort_controller:127:7) {
+[1]   code: 'ABORT_ERR',
+[1]   type: 'aborted'
+[1] } +0ms
+[1]   libp2p:yamux:outbound:17 try to send reset to remote +0ms
+[1]   libp2p:connection-monitor:error error during heartbeat AbortError: Read aborted
+[1]     at EventTarget.listener (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:199543:28)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at AbortController.abort (node:internal/abort_controller:392:5)
+[1]     at EventTarget.onAbort (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:170520:20)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at Timeout._onTimeout (node:internal/abort_controller:127:7) {
+[1]   code: 'ABORT_ERR',
+[1]   type: 'aborted'
+[1] } +0ms
+[1]   libp2p:connection-monitor:error aborting connection due to ping failure +0ms
+[1]   libp2p:connection:outbound:de1ok41730165999191:error aborting connection to /ip4/192.168.200.183/tcp/53983/ws/p2p/12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm due to error AbortError: Read aborted
+[1]     at EventTarget.listener (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:199543:28)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at AbortController.abort (node:internal/abort_controller:392:5)
+[1]     at EventTarget.onAbort (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:170520:20)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at Timeout._onTimeout (node:internal/abort_controller:127:7) {
+[1]   code: 'ABORT_ERR',
+[1]   type: 'aborted'
+[1] } +1ms
+[1]   libp2p:websockets:maconn timeout closing stream to 192.168.200.183:53983 due to error AbortError: Read aborted
+[1]     at EventTarget.listener (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:199543:28)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at AbortController.abort (node:internal/abort_controller:392:5)
+[1]     at EventTarget.onAbort (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:170520:20)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at Timeout._onTimeout (node:internal/abort_controller:127:7) {
+[1]   code: 'ABORT_ERR',
+[1]   type: 'aborted'
+[1] } +44s
+[1]   libp2p:connection-manager onDisconnect remove all connections for peer 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +3s
+[1] Disconnected from: 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm
+[1]   libp2p:yamux:error muxer abort reason=2 error=AbortError: Read aborted
+[1]     at EventTarget.listener (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:199543:28)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at AbortController.abort (node:internal/abort_controller:392:5)
+[1]     at EventTarget.onAbort (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:170520:20)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at Timeout._onTimeout (node:internal/abort_controller:127:7) {
+[1]   code: 'ABORT_ERR',
+[1]   type: 'aborted'
+[1] } +0ms
+[1]   libp2p:yamux:outbound:3 abort with error AbortError: Read aborted
+[1]     at EventTarget.listener (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:199543:28)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at AbortController.abort (node:internal/abort_controller:392:5)
+[1]     at EventTarget.onAbort (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:170520:20)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at Timeout._onTimeout (node:internal/abort_controller:127:7) {
+[1]   code: 'ABORT_ERR',
+[1]   type: 'aborted'
+[1] } +43s
+[1]   libp2p:yamux:outbound:3 try to send reset to remote +0ms
+[1]   libp2p:yamux:inbound:4 abort with error AbortError: Read aborted
+[1]     at EventTarget.listener (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:199543:28)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at AbortController.abort (node:internal/abort_controller:392:5)
+[1]     at EventTarget.onAbort (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:170520:20)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at Timeout._onTimeout (node:internal/abort_controller:127:7) {
+[1]   code: 'ABORT_ERR',
+[1]   type: 'aborted'
+[1] } +0ms
+[1]   libp2p:yamux:inbound:4 try to send reset to remote +0ms
+[1]   libp2p:yamux:inbound:30 abort with error AbortError: Read aborted
+[1]     at EventTarget.listener (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:199543:28)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at AbortController.abort (node:internal/abort_controller:392:5)
+[1]     at EventTarget.onAbort (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:170520:20)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at Timeout._onTimeout (node:internal/abort_controller:127:7) {
+[1]   code: 'ABORT_ERR',
+[1]   type: 'aborted'
+[1] } +0ms
+[1]   libp2p:yamux:inbound:30 try to send reset to remote +0ms
+[1]   libp2p:yamux:inbound:34 abort with error AbortError: Read aborted
+[1]     at EventTarget.listener (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:199543:28)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at AbortController.abort (node:internal/abort_controller:392:5)
+[1]     at EventTarget.onAbort (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:170520:20)
+[1]     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]     at abortSignal (node:internal/abort_controller:370:10)
+[1]     at Timeout._onTimeout (node:internal/abort_controller:127:7) {
+[1]   code: 'ABORT_ERR',
+[1]   type: 'aborted'
+[1] } +0ms
+[1]   libp2p:yamux:inbound:34 try to send reset to remote +0ms
+[1]   libp2p:yamux sending GoAway reason=InternalError +0ms
+[1]   libp2p:gossipsub:error AbortError: Read aborted
+[1]   libp2p:gossipsub:error     at EventTarget.listener (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:199543:28)
+[1]   libp2p:gossipsub:error     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]   libp2p:gossipsub:error     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]   libp2p:gossipsub:error     at abortSignal (node:internal/abort_controller:370:10)
+[1]   libp2p:gossipsub:error     at AbortController.abort (node:internal/abort_controller:392:5)
+[1]   libp2p:gossipsub:error     at EventTarget.onAbort (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:170520:20)
+[1]   libp2p:gossipsub:error     at [nodejs.internal.kHybridDispatch] (node:internal/event_target:820:20)
+[1]   libp2p:gossipsub:error     at EventTarget.dispatchEvent (node:internal/event_target:755:26)
+[1]   libp2p:gossipsub:error     at abortSignal (node:internal/abort_controller:370:10)
+[1]   libp2p:gossipsub:error     at Timeout._onTimeout (node:internal/abort_controller:127:7) +0ms
+[1]   libp2p:gossipsub connection ended 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +43s
+[1]   libp2p:gossipsub delete peer 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +0ms
+[1]   libp2p:gossipsub connection ended 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +0ms
+[1]   libp2p:gossipsub connection ended 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +0ms
+[1]   libp2p:gossipsub connection ended 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +0ms
+[1]   libp2p:gossipsub connection ended 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +0ms
+[1]   libp2p:mdns peer found 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +20s
+[1]   libp2p:mdns discovered peer in mDNS query response 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +1ms
+[1]   libp2p:mdns peer found 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +1ms
+[1]   libp2p:mdns discovered peer in mDNS query response 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +0ms
+[1]   libp2p:mdns peer found 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +20s
+[1]   libp2p:mdns discovered peer in mDNS query response 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +0ms
+[1]   libp2p:mdns peer found 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +1ms
+[1]   libp2p:mdns discovered peer in mDNS query response 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +1ms
+[1]   libp2p:mdns peer found 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +20s
+[1]   libp2p:mdns discovered peer in mDNS query response 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +0ms
+[1]   libp2p:mdns peer found 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +1ms
+[1]   libp2p:mdns discovered peer in mDNS query response 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +0ms
+[1]   libp2p:mdns peer found 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +20s
+[1]   libp2p:mdns discovered peer in mDNS query response 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +1ms
+[1]   libp2p:mdns peer found 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +20s
+[1]   libp2p:mdns discovered peer in mDNS query response 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +0ms
+[1]   libp2p:mdns peer found 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +1ms
+[1]   libp2p:mdns discovered peer in mDNS query response 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +0ms
+[1] [AggregateError: All promises were rejected] {
+[1]   [errors]: [
+[1]     AbortError: Want was aborted
+[1]         at raceEvent (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:214086:19)
+[1]         at WantList.addEntry (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:121466:90)
+[1]         at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[1]         at async Bitswap.want (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:119856:28)
+[1]         at async /Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:127586:31
+[1]         at async Promise.any (index 0)
+[1]         at async raceBlockRetrievers (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:127582:16)
+[1]         at async NetworkedStorage.get (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:127297:27)
+[1]         at async BlockStorage.get (/Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:126964:20)
+[1]         at async /Users/myname/Desktop/electron-react-remotecontrol-app/.erb/dll/main.bundle.dev.js:195864:27 {
+[1]       type: 'aborted',
+[1]       code: 'ABORT_ERR'
+[1]     }
+[1]   ]
+[1] }
+[1]   libp2p:mdns peer found 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +20s
+[1]   libp2p:mdns discovered peer in mDNS query response 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +1ms
+[1]   libp2p:mdns peer found 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +1ms
+[1]   libp2p:mdns discovered peer in mDNS query response 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm +0ms
