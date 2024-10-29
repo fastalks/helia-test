@@ -76,3 +76,37 @@ const fileCID = await ufs.addFile({
 [1] }
 
 ```
+
+```
+try{
+    const ufs = unixfs(helia)
+    const cid = CID.parse(cidString)
+    const writeStream = fs.createWriteStream(outputPath);
+    let receiveBytes = 0;
+    for await (const chunk of ufs.cat(cid,{
+      signal:AbortSignal.timeout(100 * 1000),
+      onProgress:(evt)=>{
+        // console.log(evt.detail)
+        const { bytesRead, totalBytes, fileSize } = evt.detail
+        const bytesReadNumber = Number(bytesRead)
+        const totalBytesNumber = Number(totalBytes)
+        if (bytesReadNumber && totalBytesNumber) {
+          const progress = bytesReadNumber / totalBytesNumber
+          console.log(Progress: ${(progress * 100).toFixed(2)}%`);
+          const winId = params.winId
+          const fileId = cidString
+          libp2pNode?.services.pubsub.publish('progress-notice',uint8ArrayFromString(JSON.stringify({winId,fileId,progress})))
+        }
+        
+      }
+    })) {
+      writeStream.write(chunk);
+      receiveBytes += chunk.length;
+    }
+
+    writeStream.end();
+    console.log('File transfer complete');
+  } catch(err) {
+    console.log(err)
+  }
+```
