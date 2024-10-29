@@ -1,6 +1,26 @@
 # helia-test
 
+
 # 1: addFile
+```
+helia = await createHelia(
+    {
+      libp2p,
+      blockBrokers:[bitswap()]
+    }
+  )
+const ufs = unixfs(helia)
+const fileCID = await ufs.addFile({
+   path:filePath,
+   content: fileStream,
+   mode: 0x755,
+   mtime: {
+     secs: BigInt(new Date().getMilliseconds()),
+     nsecs: 0
+   }
+ });
+```
+
 ```
 09:40:39:243 Progress: 100.00%
 [1] File added with CID: bafybeih7pphyjhjeq5bfr7fw2erxwzuty7zynao2dryce2mp75qpakakca
