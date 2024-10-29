@@ -1,0 +1,112 @@
+09:40:39:243 Progress: 100.00%
+[1] File added with CID: bafybeih7pphyjhjeq5bfr7fw2erxwzuty7zynao2dryce2mp75qpakakca
+[1] {
+[1]   cid: CID(bafybeih7pphyjhjeq5bfr7fw2erxwzuty7zynao2dryce2mp75qpakakca),
+[1]   mode: 1877,
+[1]   mtime: { secs: 976n, nsecs: 0 },
+[1]   fileSize: 46445552n,
+[1]   dagSize: 46445752n,
+[1]   localFileSize: 46445552n,
+[1]   localDagSize: 46447825n,
+[1]   blocks: 46,
+[1]   type: 'file',
+[1]   unixfs: UnixFS {
+[1]     type: 'file',
+[1]     data: undefined,
+[1]     blockSizes: [
+[1]       1048576n, 1048576n, 1048576n, 1048576n,
+[1]       1048576n, 1048576n, 1048576n, 1048576n,
+[1]       1048576n, 1048576n, 1048576n, 1048576n,
+[1]       1048576n, 1048576n, 1048576n, 1048576n,
+[1]       1048576n, 1048576n, 1048576n, 1048576n,
+[1]       1048576n, 1048576n, 1048576n, 1048576n,
+[1]       1048576n, 1048576n, 1048576n, 1048576n,
+[1]       1048576n, 1048576n, 1048576n, 1048576n,
+[1]       1048576n, 1048576n, 1048576n, 1048576n,
+[1]       1048576n, 1048576n, 1048576n, 1048576n,
+[1]       1048576n, 1048576n, 1048576n, 1048576n,
+[1]        308208n
+[1]     ],
+[1]     hashType: undefined,
+[1]     fanout: undefined,
+[1]     mtime: { secs: 976n, nsecs: 0 },
+[1]     _mode: 1877,
+[1]     _originalMode: 1877
+[1]   }
+[1] }
+[1]   libp2p:kad-dht:content-routing provide bafybeih7pphyjhjeq5bfr7fw2erxwzuty7zynao2dryce2mp75qpakakca +0ms
+[1]   libp2p:kad-dht:providers 12D3KooWPNBAVLwSVAmGQKSktQVnvxNN7i3pvvNjPXd4X6girSUm provides bafybeih7pphyjhjeq5bfr7fw2erxwzuty7zynao2dryce2mp75qpakakca +0ms
+[1]   libp2p:kad-dht:providers loaded 0 provs +1ms
+[1]   libp2p:kad-dht:peer-routing getClosestPeers to QmfXxAtBhfFwyRhWMVYiUxG9Jy3A9gDPrwWcg2QqdmHKhy +40s
+[1]   libp2p:kad-dht:query:QmfXxAtBhfFwyRhWMVYiUxG9Jy3A9gDPrwWcg2QqdmHKhy waiting for initial query-self query before continuing +0ms
+[1]   libp2p:kad-dht:query:QmfXxAtBhfFwyRhWMVYiUxG9Jy3A9gDPrwWcg2QqdmHKhy query:start +0ms
+[1]   libp2p:kad-dht:query:QmfXxAtBhfFwyRhWMVYiUxG9Jy3A9gDPrwWcg2QqdmHKhy:error Running query with no peers +0ms
+[1]   libp2p:kad-dht:query:QmfXxAtBhfFwyRhWMVYiUxG9Jy3A9gDPrwWcg2QqdmHKhy query exited early +0ms
+[1]   libp2p:kad-dht:query:QmfXxAtBhfFwyRhWMVYiUxG9Jy3A9gDPrwWcg2QqdmHKhy query:done in 0ms +0ms
+[1]   libp2p:kad-dht:peer-routing found 0 peers close to QmfXxAtBhfFwyRhWMVYiUxG9Jy3A9gDPrwWcg2QqdmHKhy +1ms
+[1]   libp2p:kad-dht:content-routing sent provider records to 0 peers +3ms
+[1]   libp2p:connection-manager dial 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX +7s
+[1]   libp2p:connection-manager had an existing non-limited connection to 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX +0ms
+[1]   libp2p:yamux:outbound:30 no abort signal was passed while trying to negotiate protocols [ '/fileswap/1.0.0' ] falling back to default timeout +0ms
+[1] { msg: 'ok' }
+[1]   libp2p:connection:inbound:cg4evk1730165999207 incoming stream opened on /ipfs/bitswap/1.2.0 +9s
+[1]   libp2p:connection-manager dial 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX +68ms
+[1]   libp2p:connection-manager had an existing non-limited connection to 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX +1ms
+[1]   libp2p:connection:inbound:cg4evk1730165999207 incoming stream opened on /ipfs/bitswap/1.2.0 +82ms
+[1]   libp2p:connection-manager dial 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX +78ms
+[1]   libp2p:connection-manager had an existing non-limited connection to 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX +0ms
+[1]   libp2p:connection:inbound:cg4evk1730165999207 incoming stream opened on /ipfs/ping/1.0.0 +1s
+[1]   libp2p:ping incoming ping from 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX +10s
+[1]   libp2p:connection:inbound:cg4evk1730165999207 closing connection to /ip6/::ffff:c0a8:c834/tcp/51746/p2p/12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX +2s
+[1]   libp2p:ping:error incoming ping from 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX failed with error UnexpectedEOFError: unexpected end of input
+[1]     at Object.read (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:199565:31)
+[1]     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[1]     at async E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:152833:29 {
+[1]   code: 'ERR_UNEXPECTED_EOF'
+[1] } +12s
+[1]   libp2p:ping incoming ping from 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX complete in 1999ms +2s
+[1]   libp2p:yamux:error muxer abort reason=2 error=AbortError: The operation was aborted
+[1]     at raceSignal (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:214168:19)
+[1]     at YamuxStream.close (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:155796:70)
+[1]     at E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:118865:78
+[1]     at Array.map (<anonymous>)
+[1]     at YamuxMuxer.close (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:118865:59)
+[1]     at ConnectionImpl.close [as _close] (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:206675:30)
+[1]     at ConnectionImpl.close (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:204750:24)
+[1]     at E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:206636:50
+[1]     at Object.set (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:206647:23)
+[1]     at stream.socket.addEventListener.once (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:161108:35) {
+[1]   type: 'aborted',
+[1]   code: 'ABORT_ERR'
+[1] } +0ms
+[1]   libp2p:yamux:outbound:34 abort with error AbortError: The operation was aborted
+[1]     at raceSignal (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:214168:19)
+[1]     at YamuxStream.close (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:155796:70)
+[1]     at E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:118865:78
+[1]     at Array.map (<anonymous>)
+[1]     at YamuxMuxer.close (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:118865:59)
+[1]     at ConnectionImpl.close [as _close] (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:206675:30)
+[1]     at ConnectionImpl.close (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:204750:24)
+[1]     at E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:206636:50
+[1]     at Object.set (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:206647:23)
+[1]     at stream.socket.addEventListener.once (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:161108:35) {
+[1]   type: 'aborted',
+[1]   code: 'ABORT_ERR'
+[1] } +0ms
+[1] Disconnected from: 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX
+[1]   libp2p:yamux:outbound:34 try to send reset to remote +0ms
+[1]   libp2p:yamux sending GoAway reason=InternalError +0ms
+[1]   libp2p:connection-manager onDisconnect remove all connections for peer 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX +4s
+[1]   libp2p:connection:inbound:cg4evk1730165999207:error error piping data through muxer - Error: Cannot push value onto an ended pushable
+[1]   libp2p:connection:inbound:cg4evk1730165999207:error     at QueuelessPushable._push (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:202022:19)
+[1]   libp2p:connection:inbound:cg4evk1730165999207:error     at QueuelessPushable.push (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:202009:20)
+[1]   libp2p:connection:inbound:cg4evk1730165999207:error     at duplex.sink (E:\electron-workspace\electron-react-remotecontrol-app\.erb\dll\main.bundle.dev.js:199525:25)
+[1]   libp2p:connection:inbound:cg4evk1730165999207:error     at runNextTicks (node:internal/process/task_queues:60:5)
+[1]   libp2p:connection:inbound:cg4evk1730165999207:error     at listOnTimeout (node:internal/timers:545:9)
+[1]   libp2p:connection:inbound:cg4evk1730165999207:error     at process.processTimers (node:internal/timers:519:7)
+[1]   libp2p:connection:inbound:cg4evk1730165999207:error     at async Promise.all (index 1) +0ms
+[1]   libp2p:gossipsub connection ended 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX +43s
+[1]   libp2p:gossipsub delete peer 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX +0ms
+[1]   libp2p:gossipsub connection ended 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX +0ms
+[1]   libp2p:gossipsub connection ended 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX +0ms
+[1]   libp2p:gossipsub connection ended 12D3KooWJ2fMwb7vB3M3KGwWzg5xx1LPYwc9i7AW5MJEGYPAMYgX +0ms
